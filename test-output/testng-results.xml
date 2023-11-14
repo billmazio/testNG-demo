@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-09T20:04:16 EET" name="Suite" finished-at="2023-11-09T20:04:16 EET" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2023-11-09T20:04:16 EET" name="Test" finished-at="2023-11-09T20:04:16 EET" duration-ms="46">
+      <class name="com.mydemo.calc.MathCalcTest">
+        <test-method is-config="true" signature="beforeSuiteLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeSuiteLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteLog -->
+        <test-method is-config="true" signature="beforeTestLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeTestLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestLog -->
+        <test-method is-config="true" signature="beforeClassLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeClassLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassLog -->
+        <test-method is-config="true" signature="beforeMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodLog -->
+        <test-method signature="testAddition()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="testAddition" finished-at="2023-11-09T20:04:16 EET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method is-config="true" signature="afterMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodLog -->
+        <test-method signature="testDivision()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="testDivision" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method is-config="true" signature="beforeMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodLog -->
+        <test-method is-config="true" signature="beforeMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodLog -->
+        <test-method is-config="true" signature="afterMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodLog -->
+        <test-method signature="testMultiplication()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="testMultiplication" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method is-config="true" signature="afterMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodLog -->
+        <test-method signature="testSubtraction()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="testSubtraction" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+        <test-method is-config="true" signature="beforeMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="beforeMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodLog -->
+        <test-method is-config="true" signature="afterMethodLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodLog -->
+        <test-method is-config="true" signature="afterClassLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterClassLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassLog -->
+        <test-method is-config="true" signature="afterTestLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterTestLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestLog -->
+        <test-method is-config="true" signature="afterSuiteLog()[pri:0, instance:com.mydemo.calc.MathCalcTest@4409e975]" started-at="2023-11-09T20:04:16 EET" name="afterSuiteLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteLog -->
+      </class> <!-- com.mydemo.calc.MathCalcTest -->
+      <class name="com.mydemo.logPrint.PrintLogTest">
+        <test-method is-config="true" signature="beforeSuiteLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="beforeSuiteLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteLog -->
+        <test-method is-config="true" signature="beforeTestLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="beforeTestLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestLog -->
+        <test-method is-config="true" signature="beforeClassLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="beforeClassLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassLog -->
+        <test-method signature="testPrint()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="testPrint" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrint -->
+        <test-method is-config="true" signature="beforeMethodLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="beforeMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodLog -->
+        <test-method is-config="true" signature="afterMethodLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="afterMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodLog -->
+        <test-method signature="testWrongPrint()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="testWrongPrint" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWrongPrint -->
+        <test-method is-config="true" signature="beforeMethodLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="beforeMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodLog -->
+        <test-method is-config="true" signature="afterClassLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="afterClassLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassLog -->
+        <test-method is-config="true" signature="afterMethodLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="afterMethodLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodLog -->
+        <test-method is-config="true" signature="afterTestLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="afterTestLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestLog -->
+        <test-method is-config="true" signature="afterSuiteLog()[pri:0, instance:com.mydemo.logPrint.PrintLogTest@246f8b8b]" started-at="2023-11-09T20:04:16 EET" name="afterSuiteLog" finished-at="2023-11-09T20:04:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteLog -->
+      </class> <!-- com.mydemo.logPrint.PrintLogTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
