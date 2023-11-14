@@ -15,7 +15,7 @@ TestNGDemo is a Java project that demonstrates basic mathematical operations and
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/billmazio/testNG-demo.git
 
 2. Open Eclipse and import the project.
 3. Maven will automatically handle the project dependencies.
@@ -42,24 +42,4 @@ Tests are implemented using TestNG. To run them:
 
 Refer to the `pom.xml` file for detailed Maven configuration, including Java version and dependencies.
 
-## Contributing
 
-Please read [CONTRIBUTING.md](link-to-your-contributing.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](link-to-your-tags).
-
-## Authors
-
-- **Your Name** - *Initial work* - [YourGitHubProfile](link-to-your-github-profile)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
